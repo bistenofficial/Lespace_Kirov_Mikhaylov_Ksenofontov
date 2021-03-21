@@ -46,7 +46,9 @@
     <Content Include="static\content\bootstrap.min.css" />
     <Content Include="static\content\images\Earth.jfif" />
     <Content Include="static\content\images\Mars.jpg" />
+    <Content Include="static\content\images\Saturn.jpg" />
     <Content Include="static\content\images\Upiter.jpg" />
+    <Content Include="static\content\images\Uranus.jpg" />
     <Content Include="static\content\images\Venus.jpg" />
     <Content Include="static\content\images\Merc.jfif" />
     <Content Include="static\content\site.css" />

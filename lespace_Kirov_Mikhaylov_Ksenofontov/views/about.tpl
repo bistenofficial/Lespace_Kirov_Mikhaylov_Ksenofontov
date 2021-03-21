@@ -105,6 +105,35 @@
    At a depth of 100 km, there is a vast ocean of liquid hydrogen. Below 17,000 km. the hydrogen is compressed so much that its atoms are destroyed. 
    And then it begins to behave like metal; in this state, it easily conducts electricity.
    <p>
-   <br><br><br><br><br><br>
+   <br><br>
+   <p style="color: #FFEBCD"><img src="static/content/images/Saturn.jpg" class="leftpic">
+   Saturn
+   <br>
+   The sixth planet from the Sun, it has an amazing ring system. 
+   Due to the rapid rotation around its axis, Saturn is flattened at the poles. 
+   The wind speed at the equator reaches 1800 km/h.
+   The width of Saturn's rings is 400,000 km, but they are only a few tens of meters thick.
+   The inner parts of the rings rotate around Saturn faster than the outer parts. 
+   The rings are mostly made up of billions of small particles, each orbiting Saturn as a separate microscopic satellite.
+   Probably, these "microsatellites" consist of water ice or of rocks covered with ice. 
+   Their size ranges from a few centimeters to tens of meters. 
+   In the rings there are also larger objects - stone blocks and fragments up to hundreds of meters across. 
+   The gaps between the rings are caused by the gravitational forces of the seventeen moons (Hyperion, Mimas, Tethys, Titan, Enceladus, etc.), which cause the rings to split. 
+   The composition of the atmosphere includes: CH4, H2, He, NH3.
+   <p>
+   <br><br><br><br>
+   <p style="color: #B0E0E6"><img src="static/content/images/Uranus.jpg" class="rightpic">
+   Uranus
+   <br>
+   The seventh planet from the Sun. 
+   It was discovered in 1781 by the English astronomer William Herschel, and named after the Greek sky god Uranus. 
+   The orientation of Uranus in space is different from the other planets of the Solar System - its axis of rotation lies "on its side" relative to the plane of rotation of this planet around the Sun.
+   The axis of rotation is tilted at an angle of 98o.
+   As a result, the planet is turned to the Sun alternately by the north pole, then by the south, then by the equator, then by the middle latitudes.
+   Uranus has more than 27 moons (Miranda, Ariel, Umbriel, Titania, Oberon, Cordelia, Ophelia, Bianca, Cressida, Desdemona, Juliet, Portia, Rosalind, Belinda, Peck, etc.) and a ring system. 
+   In the center of Uranus is a core consisting of stone and iron. 
+   The composition of the atmosphere includes: H2, He, CH4 (14%).
+   <p>
+   <br><br><br><br>
   <body>
-<p></p>
+  <p></p>
