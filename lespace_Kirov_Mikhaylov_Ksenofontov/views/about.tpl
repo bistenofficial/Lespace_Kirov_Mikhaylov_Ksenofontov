@@ -134,6 +134,19 @@
    In the center of Uranus is a core consisting of stone and iron. 
    The composition of the atmosphere includes: H2, He, CH4 (14%).
    <p>
-   <br><br><br><br>
+   <br><br><br><br><br>
+   <p style="color: #00BFFF"><img src="static/content/images/Neptune.jpg" class="leftpic">
+   Neptune
+   <br>
+   The structure of Neptune is very close to Uranus in its composition. 
+   It is also a gaseous planet with a solid core, with a mass about the same as Earth and a temperature like on the surface of the Sun-up to 7000 K. 
+   At the same time, the total mass of Neptune is about 17 times the mass of the Earth. 
+   The core of the eighth planet is shrouded in a mantle of water, methane ice, and ammonia. 
+   Next comes the atmosphere, which includes 80% hydrogen, 19% helium, and about 1% methane. 
+   Methane also makes up the planet's upper clouds, which absorb the red spectrum of the sun's rays, so the planet's color is dominated by blue. 
+   The temperature of the upper layers is – 200 °C. In the atmosphere of Neptune, the strongest winds are recorded, among all known planets. 
+   Their speed can reach 2100 km / h! Located at a distance of 30 au, a full revolution around the Sun takes Neptune almost 165 earth years, so, since its discovery, it will make its first full revolution only in 2011.
+  <p>
+  <br><br><br><br><br>
   <body>
   <p></p>
