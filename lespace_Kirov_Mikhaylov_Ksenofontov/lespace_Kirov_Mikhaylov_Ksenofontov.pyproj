@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
+    <Content Include="static\content\DUCh3XfU0AApOAc-1024x683.jpg" />
     <Content Include="static\content\Falcon_9.jpg" />
     <Content Include="static\content\Falcon_Heavy_Demo_Mission.jpg" />
     <Content Include="static\content\bootstrap.css" />
