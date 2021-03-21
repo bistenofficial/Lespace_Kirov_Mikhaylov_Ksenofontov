@@ -3,7 +3,7 @@
 <h2>Planets</h2>
 <html>
  <head>
- <meta charset="utf-8">
+  <meta charset="utf-8">
   <style>
   .rightpic {
   float: right;
@@ -18,7 +18,7 @@
   }
   </style>
   <head>
-  <body>
+ <body>
   <p class="lead">On this page you will see a brief description and photos of the planets of our solar system.
   <p style="color: #808080"><img src ="static/content/images/Merc.jfif" class ="rightpic">
   Mercury
@@ -149,4 +149,4 @@
   <p>
   <br><br><br><br><br>
   <body>
-  <p></p>
+ <html>
