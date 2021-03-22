@@ -35,6 +35,7 @@
   <ItemGroup>
     <Folder Include="static\" />
     <Folder Include="static\content\" />
+    <Folder Include="static\content\images\" />
     <Folder Include="static\fonts\" />
     <Folder Include="static\scripts\" />
     <Folder Include="views\" />
@@ -46,6 +47,14 @@
     <Content Include="static\content\Falcon_Heavy_Demo_Mission.jpg" />
     <Content Include="static\content\bootstrap.css" />
     <Content Include="static\content\bootstrap.min.css" />
+    <Content Include="static\content\images\Earth.jfif" />
+    <Content Include="static\content\images\Mars.jpg" />
+    <Content Include="static\content\images\Neptune.jpg" />
+    <Content Include="static\content\images\Saturn.jpg" />
+    <Content Include="static\content\images\Upiter.jpg" />
+    <Content Include="static\content\images\Uranus.jpg" />
+    <Content Include="static\content\images\Venus.jpg" />
+    <Content Include="static\content\images\Merc.jfif" />
     <Content Include="static\content\site.css" />
     <Content Include="static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
