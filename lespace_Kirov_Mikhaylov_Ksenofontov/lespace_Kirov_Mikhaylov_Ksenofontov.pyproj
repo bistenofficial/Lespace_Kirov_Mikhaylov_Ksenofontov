@@ -19,6 +19,7 @@
     <Name>lespace_Kirov_Mikhaylov_Ksenofontov</Name>
     <RootNamespace>lespace_Kirov_Mikhaylov_Ksenofontov</RootNamespace>
     <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <WebBrowserPort>444</WebBrowserPort>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
