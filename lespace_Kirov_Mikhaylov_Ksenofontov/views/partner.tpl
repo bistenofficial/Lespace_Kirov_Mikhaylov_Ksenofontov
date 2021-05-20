@@ -12,7 +12,7 @@
   <head>
   <h2>Partner</h2>
   <h3> New partner </h3>
-  <form action="/home1" method="post">
+  <form action="/home1" method="post"> <!--Три поля для ввода и кнопка для добавления партнера -->
         <p><input type="text" size="50" name="NAME" placeholder="Name organization"></p>
         <p><input type="text" size="50" name="Telep" placeholder="Telephone"></p>
         <p><textarea rows="2" cols="50" name="DESC" placeholder="Description"></textarea></p> 
@@ -20,7 +20,7 @@
   </form>
 
   <div>
-   <h3> Our partners </h3>
+   <h3> Our partners </h3>  <!--Часть для вывода существующих партнеров -->
    <form>
      %Organ = Organiz.get_all_organization()
      %for organiz in Organ:

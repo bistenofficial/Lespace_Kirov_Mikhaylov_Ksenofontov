@@ -17,7 +17,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> <!--Добавление новой кнопки для новой страницы-->
                 </button>
                 <a href="/" class="navbar-brand">Space</a>
             </div>
@@ -26,7 +26,7 @@
                     <li><a href="/home">Rocket</a></li>
                     <li><a href="/about">Planets</a></li>
                     <li><a href="/contact">Contact</a></li>
-                    <li><a href="/partner">Partner</a></li>
+                    <li><a href="/partner">Partner</a></li> <!--Ссылка на новую страницу-->
                 </ul>
             </div>
         </div>
