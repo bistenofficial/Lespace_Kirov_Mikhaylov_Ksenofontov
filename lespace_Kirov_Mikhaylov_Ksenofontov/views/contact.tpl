@@ -1,16 +1,24 @@
 % rebase('layout.tpl', title=title, year=year)
+ 
+<html>
+  <head>
+    <meta charset="utf-8">
+   <style>
+    body {background: #000000;
+    color: #FFFFFF;
+    }
+    </style>
+  <head>
+  <h2>SUAI</h2>
+  <h3>Our contacts:</h3>
+  <address>
+    Worked on this projekt:<br /> <abbr title="Maxim, Sergey, Daniil">MSD </abbr >Team<br />
+    SUAI<br />
+    Everything about space from everyone from space<br />
+  </address>
 
-<h2>{{ title }}.</h2>
-<h3>{{ message }}</h3>
-
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
-
-<address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-</address>
+  <address>
+    <strong>Git Repository:</strong>   <a href="https://github.com/bistenofficial/lespace_Kirov_Mikhaylov_Ksenofontov">Right here</a><br />
+    <strong>The one who worked on the page:</strong> ksenof.serrr@mail.ru<br />
+  </address>
+</html>

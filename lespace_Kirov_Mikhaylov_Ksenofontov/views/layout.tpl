@@ -17,14 +17,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
                 </button>
-                <a href="/" class="navbar-brand">Application name</a>
+                <a href="/" class="navbar-brand">Space</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/home">Home</a></li>
+                    <li><a href="/home">Rocket</a></li>
                     <li><a href="/about">Planets</a></li>
                     <li><a href="/contact">Contact</a></li>
+                    <li><a href="/partner">Partner</a></li>
                 </ul>
             </div>
         </div>
