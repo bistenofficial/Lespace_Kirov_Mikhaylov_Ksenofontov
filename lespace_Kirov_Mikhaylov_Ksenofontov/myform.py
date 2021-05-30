@@ -4,7 +4,7 @@ import json
 
 questions ={}
 questions['question'] =[]
-
+    
 @post('/home', method='post')
 def my_form():
     reg = re.compile(r'\w+@\w+\.\w')
