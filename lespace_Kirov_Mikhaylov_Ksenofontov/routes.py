@@ -4,6 +4,8 @@ Routes and views for the bottle application.
 
 from bottle import route, view
 from datetime import datetime
+import add_article
+
 
 @route('/')
 @route('/home')
@@ -30,6 +32,16 @@ def about():
     """Renders the about page."""
     return dict(
         title='About',
+        message='Your application description page.',
+        year=datetime.now().year
+    )
+
+@route('/articles')
+@view('articles')
+def articles():
+    """Renders the about page."""
+    return dict(
+        title='Articles',
         message='Your application description page.',
         year=datetime.now().year
     )
