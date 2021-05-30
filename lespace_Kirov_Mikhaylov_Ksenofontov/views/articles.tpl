@@ -20,12 +20,12 @@
 <br>
 <br>
 <h2 style="background-color: LightSalmon" > Articles to read</h2>
-%with open('./articles.json') as articles:
+%with open('articles.json') as articles:
 %data=json.load(articles)
 %for key, value in data.items():
     <div style="border-bottom: 3px solid LightSalmon">
         <h3 style="margin-top:40px">
-        {{value['title']}}
+        {{value["title"]}}
         </h3>
         <p>
         {{value['description']}}
