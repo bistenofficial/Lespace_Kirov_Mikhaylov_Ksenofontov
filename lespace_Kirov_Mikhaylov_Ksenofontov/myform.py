@@ -14,7 +14,7 @@ def my_form():
     if(mail=="" or data==""):
         return "Some field is empty"
     elif reg.match(mail):
-        ###pdb.set_trace()
+
         questions['question'].append({'email':mail,'ask':data})
         with open('questions.txt','w') as outfile:
             json.dump(questions, outfile)
