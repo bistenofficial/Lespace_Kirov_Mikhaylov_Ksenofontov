@@ -5,6 +5,12 @@
 <title>Articles</title>
 </head>
 <body>
+ <style>
+  body {background: #000000;
+  color: #FFFFFF;
+  }
+
+  </style>
     <h1>Articles</h1>
 <h2> Add your own article</h2>
 
@@ -15,32 +21,32 @@
         <p><input rows="2" cols="55" name="PHONE" placeholder="Enter your phone.."></p>
         <p><input rows="2" cols="55" name="AUTHOR_EMAIL" placeholder="Enter your email.."></p> 
         <p><input rows="2" cols="55" name="WRITTEN_DATE" placeholder="Date of writing of the article"></p> 
-        <p><input type="submit" value="Add" class="btn-default"></p>
+        <p><input type="submit" value="Add articl" class="btn-default"></p>
 </form>
 <br>
 <br>
-<h2 style="background-color: LightSalmon" > Articles to read</h2>
+<h1 style="text-align:center"> Articles to read</h1>
 %with open('articles.json') as articles:
 %data=json.load(articles)
 %for key, value in data.items():
     <div style="border-bottom: 3px solid LightSalmon">
-        <h3 style="margin-top:40px">
+        <h2 style="margin-top:50px">
         {{value["title"]}}
-        </h3>
-        <p>
+        </h2>
+        <p style="font-size:20pt">
         {{value['description']}}
         </p>
-        <p style="font-size:10pt">
-        By {{value['author']}}
+        <p style="font-size:20pt">
+        By {{value['author']}}\
         </p>
-        <p style="font-size:10pt">
+        <p style="font-size:15pt">
         Published on {{value['published_date']}}, written on {{value['written_date']}}
+        </p>
+        <p style="font-size:15pt">
+        Email {{value['author_email']}}
         </p>
         <p style="font-size:10pt">
         Phone {{value['phone']}}
-        </p>
-        <p style="font-size:10pt">
-        Email {{value['author_email']}}
         </p>
     </div>
 %end
