@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 
 list_mail_uncor = ["1","wrw@ksjf...ksu","jhg.sds.dsf","","jsghfa"]
-list_mail_cor = ["m.m@mail.ru", "m1@gmail.com","131m@mail.com","jjjjj@qwe.ds", "ap55@yandex.com"]
+list_mail_cor = ["Maxim.kirov@mail.ru", "max@gmail.com","131m@mail.com","jjjjj@qwe.ds", "KIROV@yandex.com"]
 
 list_phone_uncor = ["", "123", "242342+34234", "45345", "//////////","8911-99", "-+91176", "a", "8911--762---45-45"]
 list_phone_сor = ["89117628448", "9117628448", "911-762-8228", "(123)1234567", "(543)234-2345"]

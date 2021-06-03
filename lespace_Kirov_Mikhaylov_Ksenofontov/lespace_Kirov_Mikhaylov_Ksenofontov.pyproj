@@ -32,9 +32,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="test5.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="checks.py" />
     <Compile Include="app.py" />
     <Compile Include="compare.py">
@@ -49,18 +46,6 @@
     </Compile>
     <Compile Include="routes.py" />
     <Compile Include="test1.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="test3.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="test4.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="test6.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

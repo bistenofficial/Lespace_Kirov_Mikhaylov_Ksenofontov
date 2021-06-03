@@ -23,8 +23,7 @@
         <p><input rows="2" cols="55" name="WRITTEN_DATE" placeholder="Date of writing of the article"></p> 
         <p><input type="submit" value="Add articl" class="btn-default"></p>
 </form>
-<br>
-<br>
+
 <h1 style="text-align:center"> Articles to read</h1>
 %with open('articles.json') as articles:
 %data=json.load(articles)
@@ -33,7 +32,7 @@
         <h2 style="margin-top:50px">
         {{value["title"]}}
         </h2>
-        <p style="font-size:20pt">
+        <p style="font-size:15pt">
         {{value['description']}}
         </p>
         <p style="font-size:20pt">
